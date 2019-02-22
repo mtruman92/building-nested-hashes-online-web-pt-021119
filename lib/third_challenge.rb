@@ -28,3 +28,5 @@ def third_challenge
 
   
 end
+
+third_challenge
